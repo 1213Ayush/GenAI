@@ -16,4 +16,7 @@ above image is for n8n workflow. It is working fine.
 - can you guide me to get output like yours/chatgpt 
 I means more like human redable format.
 
-#########################################################3
+#########################################################
+If you perform a web search (using SerpAPI), summarize the key findings directly relevant to the user's question. Do not just output raw search results.
+- If you perform a calculation (using Calculator), clearly state the calculation performed and its result.
+- Always provide a natural language response, even if the answer is derived from a tool.
